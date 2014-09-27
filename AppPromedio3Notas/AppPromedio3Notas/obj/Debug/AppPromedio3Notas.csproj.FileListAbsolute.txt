@@ -1,0 +1,5 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppPromedio3Notas\AppPromedio3Notas\bin\Debug\AppPromedio3Notas.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppPromedio3Notas\AppPromedio3Notas\bin\Debug\AppPromedio3Notas.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppPromedio3Notas\AppPromedio3Notas\bin\Debug\AppPromedio3Notas.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppPromedio3Notas\AppPromedio3Notas\obj\Debug\AppPromedio3Notas.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppPromedio3Notas\AppPromedio3Notas\obj\Debug\AppPromedio3Notas.pdb

@@ -1,0 +1,6 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppValorEntero\AppValorEntero\bin\Debug\AppValorEntero.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppValorEntero\AppValorEntero\bin\Debug\AppValorEntero.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppValorEntero\AppValorEntero\bin\Debug\AppValorEntero.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppValorEntero\AppValorEntero\obj\Debug\AppValorEntero.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppValorEntero\AppValorEntero\obj\Debug\AppValorEntero.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppValorEntero\AppValorEntero\obj\Debug\AppValorEntero.pdb

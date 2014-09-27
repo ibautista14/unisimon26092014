@@ -1,0 +1,6 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\Appswitch\Appswitch\bin\Debug\Appswitch.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\Appswitch\Appswitch\bin\Debug\Appswitch.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\Appswitch\Appswitch\bin\Debug\Appswitch.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\Appswitch\Appswitch\obj\Debug\Appswitch.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\Appswitch\Appswitch\obj\Debug\Appswitch.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\Appswitch\Appswitch\obj\Debug\Appswitch.pdb
